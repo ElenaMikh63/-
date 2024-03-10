@@ -11,7 +11,7 @@
     <div><b>Мы желаем вам каждый день ощущать себя любимыми, ценными и важными, получать заслуженное признание и уважение. Пусть ваши мечты сбудутся, а успех всегда будет вашим спутником.</b></div>
     <br>
     <img src="https://catherineasquithgallery.com/uploads/posts/2021-12/1639667567_206-catherineasquithgallery-com-p-krasivii-fon-dlya-teksta-rozovii-415.jpg" width="350" height="250" alt="картинка 1" border="2 px">
-    <img src="https://on-desktop.com/wps/2018Nature___Flowers_Pink_tulips_with_green_leaves_on_a_pink_background_125328_.jpg" height="279" width="570" alt="картинка 2" border="2 px"> 
+    <img src="https://on-desktop.com/wps/2018Nature___Flowers_Pink_tulips_with_green_leaves_on_a_pink_background_125328_.jpg" height="250" width="350" alt="картинка 2" border="2 px"> 
     <img src="https://celes.club/uploads/posts/2022-11/1667325749_50-celes-club-p-fon-doya-praisa-vkontakte-51.jpg" width="350" height="250" alt="картинка 3" border="2 px">
     <p align="center">Как появился праздник - 8 марта?</p>
     <div color-text=fffafa>Международный женский день появился в XX веке. 28 февраля 1908 года в Нью-Йорке состоялся митинг с участием около 15 тысяч женщин. Инициатором шествия стала социал-демократическая женская организация. Причина митинга — стремление женщин получить равные права с мужчинами, а также иметь возможность участвовать в выборах.
